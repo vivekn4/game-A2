@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Dead_Slime","order":2,"path":"objects/Dead_Slime/Dead_Slime.yy",},
+    {"name":"Slime","order":1,"path":"objects/Slime/Slime.yy",},
+    {"name":"Hero_Idle","order":1,"path":"sprites/Hero_Idle/Hero_Idle.yy",},
+    {"name":"Hero_Move","order":2,"path":"sprites/Hero_Move/Hero_Move.yy",},
+    {"name":"Skeleton_Attacking","order":2,"path":"sprites/Skeleton_Attacking/Skeleton_Attacking.yy",},
+    {"name":"Skeleton_Dying","order":3,"path":"sprites/Skeleton_Dying/Skeleton_Dying.yy",},
+    {"name":"Skeleton_Moving","order":1,"path":"sprites/Skeleton_Moving/Skeleton_Moving.yy",},
+    {"name":"Slime_Dying","order":2,"path":"sprites/Slime_Dying/Slime_Dying.yy",},
+    {"name":"Slime_Moving","order":1,"path":"sprites/Slime_Moving/Slime_Moving.yy",},
+  ],
+}

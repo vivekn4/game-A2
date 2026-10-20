@@ -1,0 +1,58 @@
+{
+  "$GMPath": "",
+  "%Name": "Patrol1",
+  "closed": true,
+  "kind": 0,
+  "name": "Patrol1",
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy"
+  },
+  "points": [
+    {
+      "$GMPathPoint": "",
+      "%Name": "",
+      "speed": 100.0,
+      "x": 300.0,
+      "y": 200.0
+    },
+    {
+      "$GMPathPoint": "",
+      "%Name": "",
+      "speed": 100.0,
+      "x": 900.0,
+      "y": 200.0
+    },
+    {
+      "$GMPathPoint": "",
+      "%Name": "",
+      "speed": 100.0,
+      "x": 1500.0,
+      "y": 400.0
+    },
+    {
+      "$GMPathPoint": "",
+      "%Name": "",
+      "speed": 100.0,
+      "x": 1500.0,
+      "y": 800.0
+    },
+    {
+      "$GMPathPoint": "",
+      "%Name": "",
+      "speed": 100.0,
+      "x": 900.0,
+      "y": 800.0
+    },
+    {
+      "$GMPathPoint": "",
+      "%Name": "",
+      "speed": 100.0,
+      "x": 400.0,
+      "y": 600.0
+    }
+  ],
+  "precision": 4,
+  "resourceType": "GMPath",
+  "resourceVersion": "2.0"
+}
