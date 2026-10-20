@@ -40,7 +40,6 @@
     {"id":{"name":"Dead_Slime","path":"objects/Dead_Slime/Dead_Slime.yy",},},
     {"id":{"name":"Hero","path":"objects/Hero/Hero.yy",},},
     {"id":{"name":"Slime","path":"objects/Slime/Slime.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Hero_Attack","path":"sprites/Hero_Attack/Hero_Attack.yy",},},
     {"id":{"name":"Hero_Idle","path":"sprites/Hero_Idle/Hero_Idle.yy",},},
     {"id":{"name":"Hero_Move","path":"sprites/Hero_Move/Hero_Move.yy",},},
