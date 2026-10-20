@@ -12,44 +12,44 @@
     {
       "$GMPathPoint": "",
       "%Name": "",
-      "speed": 100.0,
       "x": 300.0,
-      "y": 200.0
+      "y": 200.0,
+      "speed": 100.0
     },
     {
       "$GMPathPoint": "",
       "%Name": "",
-      "speed": 100.0,
       "x": 900.0,
-      "y": 200.0
+      "y": 200.0,
+      "speed": 100.0
     },
     {
       "$GMPathPoint": "",
       "%Name": "",
-      "speed": 100.0,
       "x": 1500.0,
-      "y": 400.0
+      "y": 400.0,
+      "speed": 100.0
     },
     {
       "$GMPathPoint": "",
       "%Name": "",
-      "speed": 100.0,
       "x": 1500.0,
-      "y": 800.0
+      "y": 800.0,
+      "speed": 100.0
     },
     {
       "$GMPathPoint": "",
       "%Name": "",
-      "speed": 100.0,
       "x": 900.0,
-      "y": 800.0
+      "y": 800.0,
+      "speed": 100.0
     },
     {
       "$GMPathPoint": "",
       "%Name": "",
-      "speed": 100.0,
       "x": 400.0,
-      "y": 600.0
+      "y": 600.0,
+      "speed": 100.0
     }
   ],
   "precision": 4,
