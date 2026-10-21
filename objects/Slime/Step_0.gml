@@ -3,18 +3,19 @@
 // Hidden until the hero is within 200 px
 if (distance_to_object(Hero) > 200) {
 	visible = false;
+	speed = 0;
 	exit;
 }
 visible = true;
 
 // Is the hero attacking us? Hero on the left or right
-if (position_meeting(x - 10, y, Hero) && Hero.attacking) {
+if (position_meeting(x - 50, y, Hero) && Hero.attacking) {
 	x = x + 100;
 	slime_health -= Hero.attack_dmg;
 	image_blend = c_red;
 	alarm[1] = 8;
 }
-else if (position_meeting(x + 10, y, Hero) && Hero.attacking) {
+else if (position_meeting(x + 50, y, Hero) && Hero.attacking) {
 	x = x - 100;
 	slime_health -= Hero.attack_dmg;
 	image_blend = c_red;

@@ -1,7 +1,7 @@
 /// @description Fight the hero while patrolling
 if (hit_cool > 0) hit_cool--;
 
-var close = distance_to_object(Hero) < 30;
+var close = distance_to_object(Hero) < 48;
 sprite_index = close ? Skeleton_Attacking : Skeleton_Moving;
 
 // Hero hits the skeleton
