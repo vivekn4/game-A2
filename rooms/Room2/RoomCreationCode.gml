@@ -28,6 +28,6 @@ for (var i = 0; i < 3; i++) {
 // Door back to Room 1
 var d = instance_create_layer(50, 500, "Instances", Door);
 d.target_room = Room1;
-d.target_x = 1880;
+d.target_x = 1800;
 d.target_y = 500;
 d.label = "< ROOM 1";

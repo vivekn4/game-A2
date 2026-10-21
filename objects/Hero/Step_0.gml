@@ -5,7 +5,7 @@ if (invuln > 0) invuln--;
 if (hp <= 0) {
 	hp = max_hp;
 	if (room == Room1) { global.spawn_x = 200; global.spawn_y = 500; }
-	else { global.spawn_x = 110; global.spawn_y = 500; }
+	else { global.spawn_x = 200; global.spawn_y = 500; }
 	room_restart();
 }
 

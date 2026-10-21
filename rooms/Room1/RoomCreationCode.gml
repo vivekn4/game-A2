@@ -25,6 +25,6 @@ repeat (irandom_range(10, 15)) {
 // Door to Room 2
 var d = instance_create_layer(1940, 500, "Instances", Door);
 d.target_room = Room2;
-d.target_x = 110;
+d.target_x = 200;
 d.target_y = 500;
 d.label = "ROOM 2 >";
