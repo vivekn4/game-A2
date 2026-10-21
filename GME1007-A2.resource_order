@@ -10,5 +10,12 @@
     {"name":"Skeleton_Moving","order":1,"path":"sprites/Skeleton_Moving/Skeleton_Moving.yy",},
     {"name":"Slime_Dying","order":2,"path":"sprites/Slime_Dying/Slime_Dying.yy",},
     {"name":"Slime_Moving","order":1,"path":"sprites/Slime_Moving/Slime_Moving.yy",},
+    {"name":"snd_swing","order":0,"path":"sounds/snd_swing/snd_swing.yy",},
+    {"name":"snd_hit","order":1,"path":"sounds/snd_hit/snd_hit.yy",},
+    {"name":"snd_slime_die","order":2,"path":"sounds/snd_slime_die/snd_slime_die.yy",},
+    {"name":"snd_hurt","order":3,"path":"sounds/snd_hurt/snd_hurt.yy",},
+    {"name":"snd_levelup","order":4,"path":"sounds/snd_levelup/snd_levelup.yy",},
+    {"name":"snd_skeleton_die","order":5,"path":"sounds/snd_skeleton_die/snd_skeleton_die.yy",},
+    {"name":"snd_door","order":6,"path":"sounds/snd_door/snd_door.yy",},
   ],
 }
